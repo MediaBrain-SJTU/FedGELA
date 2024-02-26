@@ -59,11 +59,10 @@ If you have any problem with this code, please feel free to contact **zqfan_knig
 
 If you find it useful, please cite as following:
 ```
-@article{fan2024federated,
+@inproceedings{fan2023federated,
   title={Federated Learning with Bilateral Curation for Partially Class-Disjoint Data},
-  author={Fan, Ziqing and Yao, Jiangchao and Han, Bo and Zhang, Ya and Wang, Yanfeng and others},
-  journal={Advances in Neural Information Processing Systems},
-  volume={36},
-  year={2024}
+  author={Fan, Ziqing and Zhang, Ruipeng and Yao, Jiangchao and Han, Bo and Zhang, Ya and Wang, Yanfeng},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
 }
 ```
