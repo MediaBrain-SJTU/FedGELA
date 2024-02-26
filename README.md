@@ -15,7 +15,7 @@ As for model used in the paper, we use the same model structure ResNet18 modifie
 ## Parameters
 | Parameter                      | Description                                 |
 | ----------------------------- | ---------------------------------------- |
-| `prox` | Type of last layer of classifier you used (cls for FedAvg and etf for our FedGELA). |
+| `proxy` | Type of last layer of classifier you used (cls for FedAvg and etf for our FedGELA). |
 | `model`                     | The model architecture. Options: `simple-cnn`, `resnet18`.|
 | `dataset`      | Dataset to use. Options: `CIFAR10`. `CIFAR100`, `SVHN`|
 | `lr` | Learning rate. |
