@@ -55,3 +55,15 @@ We borrow some codes from [MOON](https://github.com/QinbinLi/MOON) and [FedSkip]
 
 If you have any problem with this code, please feel free to contact **zqfan_knight@sjtu.edu.cn** or **zqfan0331@gmail.com**.
 
+## Cite
+
+If you find it useful, please cite as following:
+```
+@article{fan2024federated,
+  title={Federated Learning with Bilateral Curation for Partially Class-Disjoint Data},
+  author={Fan, Ziqing and Yao, Jiangchao and Han, Bo and Zhang, Ya and Wang, Yanfeng and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
+```
