@@ -53,7 +53,7 @@ We borrow some codes from [MOON](https://github.com/QinbinLi/MOON) and [FedSkip]
 
 ## Contact
 
-If you have any problem with this code, please feel free to contact **zqfan_knight@sjtu.edu.cn** or **zqfan0331@gmail.com**.
+If you have any problem with this code, please feel free to contact **zqfan_knight@sjtu.edu.cn** or **ziqingfan0331@gmail.com**.
 
 ## Cite
 
