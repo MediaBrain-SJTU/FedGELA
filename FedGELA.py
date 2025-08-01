@@ -141,7 +141,7 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--partition', type=str, default="class",
                         help='partition strategies')
-    parser.add_argument('--proxy', type=str, default="cls",
+    parser.add_argument('--proxy', type=str, default="etf",
                         help='type of proxy')
     parser.add_argument('--n_label', type=int, default=3,
                         help='num of label of each client')
